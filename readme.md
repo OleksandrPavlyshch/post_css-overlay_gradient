@@ -28,7 +28,7 @@
 	background-image: linear-gradient(to bottom, #fff 0%, rgba(255, 255, 255, 0) #fff 100%);
 	pointer-events: none;
 	touch-action: none;
-	}
+}
 
 @media screen and (min-width: 0\0) {
 	.selector:before {
